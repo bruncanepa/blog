@@ -1,7 +1,4 @@
----
-tags:
-  - Privacy
----
+# I’ve built an open-source E2EE library
 
 For me, the learning process involves applying what you learn through action.
 
@@ -19,3 +16,11 @@ Check out the code [here](https://bit.ly/3R442bi). More features will come in th
 
 - [Twitter](https://twitter.com/bruncanepa/status/1726702118176948511)
 - [LinkedIn](https://www.linkedin.com/posts/bruno-canepa_e2ee-protonmail-opensource-activity-7132465194319921152-MADk)
+
+---
+
+tags:
+
+- Privacy
+
+---

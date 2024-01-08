@@ -1,8 +1,3 @@
----
-tags:
-  - Privacy
----
-
 # How E2EE in **\#ProtonMail** (by [**Proton | Privacy by Default**](https://www.linkedin.com/feed/#)) works: a simplified version
 
 End-to-End Encryption (E2EE) makes sure that your messages are super secure and private. Imagine it's like sending a letter in a locked box, and only the the recipient can unlock it. ✉️ 📦
@@ -23,3 +18,11 @@ This way, your private key is always yours, and your messages remain super safe.
 
 - [Twitter](https://twitter.com/bruncanepa/status/1724198151072997437)
 - [LinkedIn](https://www.linkedin.com/posts/bruno-canepa_protonmail-privacymatters-activity-7129962781537165312-CPIg)
+
+---
+
+tags:
+
+- Privacy
+
+---

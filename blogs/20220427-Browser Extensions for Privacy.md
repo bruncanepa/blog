@@ -1,8 +1,3 @@
----
-tags:
-  - Privacy
----
-
 # Browser Extensions for Privacy
 
 The right browser extensions gives you the privacy you deserve.
@@ -40,3 +35,11 @@ Tip: white-list all the sites you want to be logged in and then turn on "Auto cl
 ## Read it also on:
 
 - [Twitter](https://twitter.com/bruncanepa/status/1519337834083241987)
+
+---
+
+tags:
+
+- Privacy
+
+---

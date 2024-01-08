@@ -1,8 +1,3 @@
----
-tags:
-  - Self
----
-
 # My success is not your success
 
 What does '**success**' mean to you?
@@ -29,3 +24,11 @@ How do you define success now?
 
 - [Twitter](https://twitter.com/bruncanepa/status/1739705694335475807)
 - [LinkedIn](https://www.linkedin.com/posts/bruno-canepa_success-presentmoment-mindfulness-activity-7145471684500766720-2I7k)
+
+---
+
+tags:
+
+- Self
+
+---

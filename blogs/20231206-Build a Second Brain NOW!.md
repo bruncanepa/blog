@@ -1,8 +1,3 @@
----
-tags:
-  - Share
----
-
 # Build a Second Brain NOW!
 
 A Second Brain 🧠 is a personalized digital system that acts as an extension of your mind, offering a structured approach to collecting and accessing ideas, notes, and important data.
@@ -23,3 +18,11 @@ Hope it can help someone to start theirs.
 
 - [Twitter](https://twitter.com/bruncanepa/status/1732873359996727784)
 - [LinkedIn](https://www.linkedin.com/posts/bruno-canepa_second-knowledgemanagement-activity-7138638607656931328-rEM5)
+
+---
+
+tags:
+
+- Share
+
+---

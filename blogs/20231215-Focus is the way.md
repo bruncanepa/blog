@@ -1,8 +1,3 @@
----
-tags:
-  - Self
----
-
 # Focus is the way 🎯 🛤️
 
 I feel in my flow and highly focused 🎯 when engaged in activities that I find fun, challenging, or scary.
@@ -23,3 +18,12 @@ In a world full of distractions, focus is the way 🛣️.
 
 - [Twitter](https://twitter.com/bruncanepa/status/1735661012601172327)
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7141426326753779712/)
+
+---
+
+tags:
+
+- Self
+- Focus
+
+---

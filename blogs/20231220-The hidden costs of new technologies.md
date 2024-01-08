@@ -1,10 +1,3 @@
----
-tags:
-  - categories/engineering
-Related:
-  - "[[Dan McKinley -- Choose Boring Technology]]"
----
-
 # The hidden costs of new technologies
 
 As Software Engineers, our love for cutting-edge technologies is real, but it's crucial to **weigh the hidden costs**.
@@ -25,3 +18,13 @@ What's your approach?
 
 - [Twitter](https://twitter.com/bruncanepa/status/1737458716717289625)
 - [LinkedIn](https://www.linkedin.com/posts/bruno-canepa_boringfirst-softwareengineering-activity-7143224642420326401-coAD)
+
+---
+
+tags:
+
+- categories/engineering
+  Related:
+- "[[Dan McKinley -- Choose Boring Technology]]"
+
+---
