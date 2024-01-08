@@ -36,7 +36,7 @@ These have no logs and no tracking policies and at least some open source code:
 
 3/6 Install Privacy focused Web Browser extensions
 
-[Browser Extensions for Privacy](./posts/20220427-Web General Tips for extra Privacy.md#Browser-Extensions-for-Privacy)
+Read my other blog [Browser Extensions for Privacy](<20220427-Browser Extensions for Privacy.md>).
 
 4/6 Change your messaging app
 

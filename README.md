@@ -1,5 +1,7 @@
 # All my blogs in one place
 
+## 2023
+
 1. [Browser Extensions for Privacy](<blogs/20220427-Browser Extensions for Privacy.md>)
 2. [Web General Tips for extra Privacy](<blogs/20220427-Web General Tips for extra Privacy.md>)
 3. [Starting to share online & E2EE](<blogs/20231108-Starting to share online & E2EE.md>)
