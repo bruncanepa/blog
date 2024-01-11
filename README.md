@@ -1,5 +1,8 @@
 # All my blogs in one place
 
+## 2024
+1. [The Internet needs Checksum](<blogs/20240110-The Internet needs Checksum.md>)
+
 ## 2023
 
 1. [Starting to share online & E2EE](<blogs/20231108-Starting to share online & E2EE.md>)
