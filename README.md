@@ -1,5 +1,9 @@
 # All my blogs in one place
 
+## 2025
+
+1. [My current AI workflow](<blogs/2025/20250329-My current AI workflow.md>)
+
 ## 2024
 
 1. [The Internet needs Checksum](<blogs/20240110-The Internet needs Checksum.md>)
