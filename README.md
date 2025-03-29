@@ -5,6 +5,7 @@
 1. [The Internet needs Checksum](<blogs/20240110-The Internet needs Checksum.md>)
 2. [Supercharge your Bash with these aliases](<blogs/20240124-Supercharge your Bash with these aliases.md>)
 3. [Elevating Your Impact - a Principle for Software Engineers](<blogs/20240223-Elevating Your Impact - a Principle for Software Engineers.md>)
+4. [Actionable steps for Software Engineers](<blogs/20241221-Actionable Steps for Software Engineers.md>)
 
 ## 2023
 
