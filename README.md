@@ -3,6 +3,10 @@
 ## 2025
 
 1. [My current AI workflow](<blogs/2025/20250329-My current AI workflow.md>)
+2. [Expose Ollama to external origins](<blogs/2025/20250402-Expose Ollama to external origins.md>)
+3. [How I Decide What to Code Myself vs. Let AI Handle](<blogs/2025/20250624-How I Decide What to Code Myself vs. Let AI Handle.md>)
+3. [I can’t believe Homomorphic Encryption exists!](<blogs/2025/20250626-Homomorphic Encryption.md>)
+4. [Prompting and verifying are the new bottlenecks](<blogs/2025/20250629-Prompting and verifying are the new bottlenecks.md>)
 
 ## 2024
 
