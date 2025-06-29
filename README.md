@@ -36,5 +36,5 @@
 
 Follow me on:
 
-- [Twitter](https://twitter.com/bruncanepa/)
+- [X](https://x.com/bruncanepa/)
 - [LinkedIn](https://www.linkedin.com/in/bruno-canepa/)
